@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "5e34caec9001d9f520a5f5ab7f9825f56b21871dc309a8182eae117e0ded85ac"
+build_start_time: [1684766194, 378453000]
+build_end_time: [1684766202, 900771000]
+inputs:
+  "/Users/arielelkin/Desktop/TestGHRunner/TestGHRunner/ContentView.swift": [1684765924, 763688382]
+  "/Users/arielelkin/Desktop/TestGHRunner/TestGHRunner/TestGHRunnerApp.swift": [1684765868, 640590075]

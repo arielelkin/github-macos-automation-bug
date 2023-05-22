@@ -1,0 +1,12 @@
+{
+  "source": "/Users/arielelkin/Desktop/TestGHRunner/TestGHRunner/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "press me"
+      }
+    ]
+  },
+  "version": 1
+}
